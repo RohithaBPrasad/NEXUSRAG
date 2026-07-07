@@ -1,0 +1,47 @@
+# --- Python / backend ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+backend/rag14_chroma_db/
+backend/uploads/
+backend/.env
+
+# --- Node / frontend ---
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+npm-debug.log*
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
+# Python
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# Environment files
+backend/.env
+frontend/.env
+
+# Database
+backend/rag14_chroma_db/
+
+# Uploads
+backend/uploads/
+
+# Node
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

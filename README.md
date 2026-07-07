@@ -1,4 +1,4 @@
-# RAG14 — 14 RAG Architectures, One Engine (React + FastAPI)
+# NEXUSTRAG — 14 RAG Architectures, One Engine (React + FastAPI)
 
 This is a full React frontend + FastAPI backend rewrite of the original
 `rag14.py` single-file tool. All 14 RAG strategies (Simple, Memory, Agentic,
